@@ -1,2 +1,3 @@
 # electrical-symbols
-public domain electrical symbols created in Affinity Designer
+Public domain electrical symbols created by Jeremy Cook in Affinity Designer.
+Use as you see fit.
