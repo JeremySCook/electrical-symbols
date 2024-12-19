@@ -1,0 +1,1 @@
+BJT PNP diagrams
