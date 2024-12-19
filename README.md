@@ -4,4 +4,4 @@
 Public domain electrical symbols created by Jeremy Cook in Affinity Designer.
 Use as you see fit.
 
-![image](temp.jpg)
+![image](https://github.com/JeremySCook/electrical-symbols/blob/main/bjt-npn/BJT-NPN-1.png)
